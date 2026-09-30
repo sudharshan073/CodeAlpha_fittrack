@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FitTrack</string>
+
+    <string name="privacy_policy_text">1. Personal Information\n\nFitTrack stores your fitness and activity details to help you track your progress.\n\n2. Data Storage\n\nYour information is stored locally in the app database.\n\n3. Data Sharing\n\nWe do not sell your personal information.\n\n4. Notifications and Reminders\n\nNotifications and reminders work only when you enable them.\n\n5. Data Export and Backup\n\nYou can export or back up your activity data from Settings.\n\n6. Notification Controls\n\nYou can disable notifications and reminders anytime.\n\n7. Data Protection\n\nWe respect your privacy and aim to keep your information safe.\n\nThank you for using FitTrack!</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <path
+        android:fillColor="@color/workout_blue"
+        android:pathData="M15,1h-2v6h-2V1H9v6H7V1H5v6c0,2.21 1.79,4 4,4v12h2V11c2.21,0 4,-1.79 4,-4V1zM17,1v22h2V13h2V9c0,-4.42 -1.79,-8 -4,-8z" />
+
+</vector>

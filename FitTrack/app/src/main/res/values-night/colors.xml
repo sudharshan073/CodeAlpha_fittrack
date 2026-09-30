@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main FitTrack Colors -->
+    <color name="primary_green">#20D3A5</color>
+    <color name="primary_green_dark">#00B894</color>
+
+    <!-- Background -->
+    <color name="background_color">#0D1917</color>
+    <color name="card_color">#162521</color>
+    <color name="input_color">#20332E</color>
+
+    <!-- Login Background -->
+    <color name="login_background">#0D1917</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F5FFFC</color>
+    <color name="text_secondary">#B7C9C4</color>
+    <color name="text_hint">#829691</color>
+
+    <!-- Borders -->
+    <color name="border_color">#304640</color>
+
+    <!-- Feature Colors -->
+    <color name="steps_green">#20D3A5</color>
+    <color name="calories_orange">#FF9D50</color>
+    <color name="workout_blue">#5A9FFF</color>
+    <color name="progress_purple">#9A82FF</color>
+
+    <!-- Feature Backgrounds -->
+    <color name="steps_background">#163B32</color>
+    <color name="calories_background">#3D2C1D</color>
+    <color name="workout_background">#192F48</color>
+    <color name="progress_background">#292242</color>
+
+    <!-- Compatibility Colors -->
+    <color name="card_background">#162521</color>
+    <color name="text_color">#F5FFFC</color>
+    <color name="secondary_text_color">#B7C9C4</color>
+
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
